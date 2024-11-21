@@ -1,0 +1,64 @@
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\bin\Debug\net6.0\appsettings.Development.json
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\bin\Debug\net6.0\appsettings.json
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\bin\Debug\net6.0\WebApplicationZyfra.exe
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\bin\Debug\net6.0\WebApplicationZyfra.deps.json
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\bin\Debug\net6.0\WebApplicationZyfra.runtimeconfig.json
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\bin\Debug\net6.0\WebApplicationZyfra.dll
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\bin\Debug\net6.0\WebApplicationZyfra.pdb
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.csproj.AssemblyReference.cache
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.AssemblyInfoInputs.cache
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.AssemblyInfo.cs
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.csproj.CoreCompileInputs.cache
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.MvcApplicationPartsAssemblyInfo.cs
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.MvcApplicationPartsAssemblyInfo.cache
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\staticwebassets\msbuild.WebApplicationZyfra.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplicationZyfra.props
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationZyfra.props
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplicationZyfra.props
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\staticwebassets.build.json
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\staticwebassets.development.json
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\scopedcss\bundle\WebApplicationZyfra.styles.css
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.csproj.CopyComplete
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.dll
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\refint\WebApplicationZyfra.dll
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.pdb
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.genruntimeconfig.cache
+D:\ИГЭУ\4 курс ИГЭУ\7 семестр\WebApplicationZyfra\obj\Debug\net6.0\ref\WebApplicationZyfra.dll
+C:\Users\User\Desktop\WebApplicationZyfra\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\WebApplicationZyfra\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\WebApplicationZyfra\bin\Debug\net6.0\WebApplicationZyfra.exe
+C:\Users\User\Desktop\WebApplicationZyfra\bin\Debug\net6.0\WebApplicationZyfra.deps.json
+C:\Users\User\Desktop\WebApplicationZyfra\bin\Debug\net6.0\WebApplicationZyfra.runtimeconfig.json
+C:\Users\User\Desktop\WebApplicationZyfra\bin\Debug\net6.0\WebApplicationZyfra.dll
+C:\Users\User\Desktop\WebApplicationZyfra\bin\Debug\net6.0\WebApplicationZyfra.pdb
+C:\Users\User\Desktop\WebApplicationZyfra\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\WebApplicationZyfra\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\WebApplicationZyfra\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\WebApplicationZyfra\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.AssemblyInfo.cs
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\staticwebassets\msbuild.WebApplicationZyfra.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplicationZyfra.props
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationZyfra.props
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplicationZyfra.props
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\scopedcss\bundle\WebApplicationZyfra.styles.css
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\WebAppli.D02B4562.Up2Date
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.dll
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\refint\WebApplicationZyfra.dll
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.pdb
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\WebApplicationZyfra.genruntimeconfig.cache
+C:\Users\User\Desktop\WebApplicationZyfra\obj\Debug\net6.0\ref\WebApplicationZyfra.dll
